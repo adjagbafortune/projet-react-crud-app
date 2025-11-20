@@ -66,8 +66,6 @@ src/<br>
 ### 📂 Documentation du projet
 
 Voici la pdf de réalisation du projet : <a href="./PDF_REALISATION.pdf" target="_blank">pdf de réalisation</a>
-<a href="https://github.com/adjagbafortune/projet-react-crud-app/blob/main/PDF_REALISATION.pdf" target="_blank">Cliquer ici pour ouvrir le PDF dans un nouvel onglet</a>
-
 
 ---
 
