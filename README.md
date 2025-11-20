@@ -65,9 +65,7 @@ src/<br>
 
 ### 📂 Documentation du projet
 
-Voici la pdf de réalisation du projet : <br>
-
-<a href="./chemin/vers/votre/fichier.pdf" target="_blank">Nom du PDF</a>
+Voici la pdf de réalisation du projet : <a href="./PDF_REALISATION.pdf" target="_blank">pdf de réalisation</a>
 
 ---
 
