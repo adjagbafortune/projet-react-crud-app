@@ -65,7 +65,7 @@ src/<br>
 
 ### 📂 Documentation du projet
 
-Voici la pdf de réalisation du projet : <a href="./PDF_REALISATION.pdf" target="_blank">pdf de réalisation</a>
+Voici le pdf de réalisation du projet : <a href="./PDF_REALISATION.pdf" target="_blank">pdf de réalisation</a>
 
 *[Note : Réactualisez votre page en cas d'erreur d'ouverture du pdf]*
 
@@ -98,7 +98,6 @@ L’application s’ouvrira sur :<br>
 2. Lancer l’API
 
 `json-server db.json --port 3001`
-
 
 API disponible ici : <br>
 
@@ -136,5 +135,5 @@ API disponible ici : <br>
 
 👤 Auteur
 
-Fortuné
+Fortuné<br>
 Développeur Web – Programme D-Clic 2025 (OIF)
