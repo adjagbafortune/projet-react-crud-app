@@ -67,6 +67,8 @@ src/<br>
 
 Voici la pdf de réalisation du projet : <a href="./PDF_REALISATION.pdf" target="_blank">pdf de réalisation</a>
 
+*[Note : Réactualisez votre page en cas d'erreur d'ouverture du pdf]*
+
 ---
 
 ## ⚙️ Installation & exécution
